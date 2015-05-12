@@ -2,27 +2,19 @@
   "name": "ffollonier-wrappers",
   "version": "0.0.3",
   "author": "Fred Follonier <fred@follonier.net>",
-  "summary": "Puppet Module for wrapping several classe with 'defines' type that doesn't appear on Puppet's ENC Foreman",
-  "license": "GPLv2+",
-  "source": "https://github.com/ffollonier/puppet-wrapper.git",
-  "project_page": "https://forge.puppetlabs.com/ffollonier/wrapper",
-  "issues_url": "https://github.com/ffollonier/puppet-wrapper/issues",
-  "tags": [
-    "wrappers",
-    "firewalld",
-    "apache",
-    "freetds",
-    "selinux"
-  ],
+  "license": "GPL-3.0",
+  "summary": "Puppet Module for wrapping defined types from several puppet modules that doesn't appear on Puppet's ENC ForemanA module for a thing",
+  "source": "https://github.com/ffollonier/puppet-wrappers",
+  "project_page": "https://forge.puppetlabs.com/ffollonier/wrappers",
+  "issues_url": "https://github.com/ffollonier/puppet-wrappers/issues",
+  "tags": ["wrappers", "firewalld", "apache", "freetds", "selinux"],
   "operatingsystem_support": [
     {
-      "operatingsystem": "RedHat",
-      "operatingsystemrelease": [
-        "7.0"
-      ]
+    "operatingsystem":"RedHat",
+    "operatingsystemrelease":[ "7.0" ]
     }
-  ],
+   ],
   "dependencies": [
-
+    { "name": "puppetlabs/stdlib", "version_requirement": ">=3.2.0 <5.0.0" }
   ]
 }
