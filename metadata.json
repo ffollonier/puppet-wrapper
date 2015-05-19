@@ -7,7 +7,7 @@
   "source": "https://github.com/ffollonier/puppet-wrappers",
   "project_page": "https://forge.puppetlabs.com/ffollonier/wrappers",
   "issues_url": "https://github.com/ffollonier/puppet-wrappers/issues",
-  "tags": ["wrappers", "firewalld", "apache", "freetds", "selinux", "pam_access"],
+  "tags": ["wrappers", "firewalld", "apache", "freetds", "selinux", "pam_access", "php"],
   "operatingsystem_support": [
     {
     "operatingsystem":"RedHat",
