@@ -1,6 +1,6 @@
 {
   "name": "ffollonier-wrappers",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Fred Follonier <fred@follonier.net>",
   "license": "GPL-3.0",
   "summary": "Puppet Module for wrapping defined types from several puppet modules that doesn't appear on Puppet's ENC Foreman",
