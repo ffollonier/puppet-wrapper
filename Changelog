@@ -1,3 +1,6 @@
+v0.0.10
+- add thias-nginx puppet module support (for nginx::file define)
+
 v0.0.9
 - add example42-jboss puppet module support (for jboss::instance define)
 
