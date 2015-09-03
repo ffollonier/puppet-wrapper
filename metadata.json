@@ -1,13 +1,13 @@
 {
   "name": "ffollonier-wrappers",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": "Fred Follonier <fred@follonier.net>",
   "license": "GPL-3.0",
   "summary": "Puppet Module for wrapping defined types from several puppet modules that doesn't appear on Puppet's ENC Foreman",
   "source": "https://github.com/ffollonier/puppet-wrappers",
   "project_page": "https://forge.puppetlabs.com/ffollonier/wrappers",
   "issues_url": "https://github.com/ffollonier/puppet-wrappers/issues",
-  "tags": ["wrappers", "firewalld", "apache", "freetds", "selinux", "pam_access", "php", "trusted_ca", "java_ks", "jboss"],
+  "tags": ["wrappers", "firewalld", "apache", "freetds", "selinux", "pam_access", "php", "trusted_ca", "java_ks", "jboss", "nginx"],
   "operatingsystem_support": [
     {
     "operatingsystem":"RedHat",
