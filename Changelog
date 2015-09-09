@@ -1,3 +1,6 @@
+v0.0.13
+- minor fixes
+
 v0.0.12
 - add saz-limits puppet module support (for limits::limits define)
 - add thias-sysctl puppet module support (for sysctl define)
