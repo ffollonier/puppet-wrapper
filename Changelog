@@ -1,3 +1,7 @@
+v0.0.12
+- add saz-limits puppet module support (for limits::limits define)
+- add thias-sysctl puppet module support (for sysctl define)
+
 v0.0.11
 - add thias-apache_httpd puppet module support (for apache_httpd::file define)
 
