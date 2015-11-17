@@ -1,3 +1,6 @@
+v0.0.14
+- add jhoblitt-udev puppet module support (for udev::rule define)
+
 v0.0.13
 - minor fixes
 
