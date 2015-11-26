@@ -1,3 +1,6 @@
+v0.0.16
+- minor fixes
+
 v0.0.15
 - add yum puppet module support (for yum::group define)
 
