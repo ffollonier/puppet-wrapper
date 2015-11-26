@@ -1,3 +1,6 @@
+v0.0.15
+- add yum puppet module support (for yum::group define)
+
 v0.0.14
 - add jhoblitt-udev puppet module support (for udev::rule define)
 
