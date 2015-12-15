@@ -1,4 +1,4 @@
-class wrappers::sudo::sudo ($sudoer=Undef,)
+class wrappers::sudo::sudo ($resources=Undef,)
 {
-  create_resources(sudo::sudoers, $sudoer)
+  create_resources(sudo::sudoers, $resources)
 }
