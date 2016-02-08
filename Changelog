@@ -1,3 +1,6 @@
+v0.0.17
+- Merge pull request from bschonec (support for ulimit + cron)
+
 v0.0.16
 - minor fixes
 
